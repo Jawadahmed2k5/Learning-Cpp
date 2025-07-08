@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std:
+using namespace std;
 
-int main()
+int main(){
 
 int num;
 cout << "Please Enter A Number";
@@ -14,3 +14,5 @@ else{
     cout << "The Number Does'nt Fullfill The Requirment";
 }
 return 0;
+
+}
